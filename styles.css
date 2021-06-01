@@ -1,0 +1,124 @@
+.nav-links {
+    text-decoration: none;
+    color:whitesmoke;
+    font-size: 150%;
+    margin-right: 20px ;
+    font-family: 'Montserrat', sans-serif;
+
+    
+}
+.nav-links:hover {
+    background-color: darkgrey;
+    color: rgb(56, 54, 54);
+    
+    
+}
+#nav-bar {
+    
+    width: 500px;
+    text-align: center;
+    padding: 20px;
+}
+
+#welcome-section {
+    background: url(https://www.10wallpaper.com/wallpaper/1366x768/1711/Study_desk_desk_lamp_notebook_Photo_HD_Wallpaper_1366x768.jpg)  no-repeat center;
+    opacity: 0.9;
+    height: 600px;
+    background-size: 100%;
+    margin-top: 20px;
+}
+#div-title {
+    border: 5px solid white ;
+    width: 40%;
+    height: 30%;
+    position: absolute;
+    top: 150px;
+    left: 450px;
+    text-align: center;
+
+  
+}
+#title {
+    font-size: 60px;
+    color: white;
+    line-height: 0.3;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    font-style: normal;
+    
+    
+}
+#subtitle {
+    font-size: 30px;
+    color: white;
+    line-height: 0.3;
+    text-align: center;
+    font-weight: lighter;
+    font-style: italic;
+    font-family: 'Montserrat', sans-serif;
+}
+#myprojects {
+    text-align: center;
+    font-size: 40px;
+    font-weight: lighter;
+    margin-top: 50px;
+    color:whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    
+    
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 350px;
+    margin-left: 110px;
+    margin-top: 100px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+    font-size: 160%;
+    background-color: whitesmoke;
+    color:rgb(28, 41, 59);
+    font-family: 'Montserrat', sans-serif;
+  }
+  body {
+      background-color: rgb(28, 41, 59);
+  }
+  #final-title {
+      font-size: 100px;
+      color: whitesmoke;
+      text-align: center;
+      font-weight: lighter;
+      padding-top: 30%;
+      font-family: 'Montserrat', sans-serif;
+  }
+  #email {
+margin-left: 45%;
+
+  } 
+  #call {
+      margin-left: 45%;
+  }
+    #book {
+        margin-left: 45%;
+    }
+    #cat {
+        margin-left: 45%;
+    }
+      
+      
+  
